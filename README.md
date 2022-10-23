@@ -18,3 +18,6 @@
 * Run “MenuOrdering.java” to give the program inputs from the console (also open the console for this)
 * Run “OrderTests.java” to run the tests
   - If a ClassNotFoundException occurs, restart the workspace (File -> Restart)
+
+## Alternatives
+* The program can run in other spaces as long as there is a place for the java files to run, and the **JUnit library** is made available to the program.
