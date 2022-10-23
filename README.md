@@ -20,4 +20,4 @@
   - If a ClassNotFoundException occurs, restart the workspace (File -> Restart)
 
 ## Alternatives
-* The program can run in other spaces as long as there is a place for the java files to run, and the **JUnit library** is made available to the program.
+The program can run in other spaces as long as there is a place for the java files to run, and the **JUnit library** is made available to the program.
