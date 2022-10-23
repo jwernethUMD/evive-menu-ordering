@@ -4,8 +4,9 @@
 1. Open Eclipse
 2. Open up any workspace
 3. Create a new java project, name it anything
-4. Right click on the “src” of the new project, click import, and select “Archive File”, then next Click on “browse” and select the evive-oa.jar file from wherever you downloaded it to
-5. Hit finish
+4. Right click on the “src” of the new project, click import, and select “Archive File”
+5. Click on “browse” and select the evive-oa.jar file from wherever you downloaded it to
+6. Hit finish
 
 ## Adding JUnit for testing
 * Go to module-info.java, hover over the error, and select the first quick fix “Fix project setup…”
